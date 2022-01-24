@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Y7+M2wXgP/dF/fbdHH5Bs/T0Va3PhmUJAEwqmxBDyV6c41tnX9SpikDeTX3Tc87M32QLwJCj2PezBcnsdvuJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Justin\\Desktop\\Homework\\PSU Source\\PSU\\psu-cli\\psu-cli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\moonsharp\\2.0.0\\moonsharp.2.0.0.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\murmurhash\\1.0.3\\murmurhash.1.0.3.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\nstack.core\\0.16.0\\nstack.core.0.16.0.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\terminal.gui\\1.1.1\\terminal.gui.1.1.1.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\unleash.client\\1.6.1\\unleash.client.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
